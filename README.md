@@ -18,3 +18,5 @@ maven 中心仓库使用
 https://juejin.cn/post/7041102663206830110
 https://issues.sonatype.org/secure/BrowseProjects.jspa?selectedCategory=all&selectedProjectType=software&sortColumn=name&sortOrder=ascending&s=view_projects
 
+## 笔记部分
+智能 bi 笔记 >> 该部分来源于收纳总结,感谢提供 补充 完善 来源<十七>
